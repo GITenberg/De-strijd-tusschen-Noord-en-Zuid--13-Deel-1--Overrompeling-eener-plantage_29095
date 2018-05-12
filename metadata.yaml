@@ -1,0 +1,34 @@
+_repo: De-strijd-tusschen-Noord-en-Zuid--13-Deel-1--Overrompeling-eener-plantage_29095
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2009-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29095'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PQ'
+title: "De strijd tusschen Noord en Zuid\r\nDeel 1: Overrompeling eener plantage"
+url: http://www.gutenberg.org/ebooks/29095
