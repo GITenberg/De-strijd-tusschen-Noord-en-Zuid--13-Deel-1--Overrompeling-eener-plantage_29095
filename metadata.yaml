@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29095#De-strijd-tusschen-Noord-en-Zuid--13-Deel-1--Overrompeling-eener-plantage
 gutenberg_issued: '2009-06-10'
 gutenberg_type: Text
 identifiers:
